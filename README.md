@@ -8,7 +8,13 @@
 
 ###
 
-<p align="left">I’m a passionate Full Stack Developer who loves blending design and development to build clean, interactive, and scalable web experiences.<br><br>- 🔭 I’m working as a teacher in Future Corporation.<br>- 💼 I've previously worked as a maker for data annotation Lider Software technology at FiveSdigital.<br>- 🤖 I specialize in Arduino UNO<br>- 📙 I love teaching students.<br>- 🧭 I love exploring and working both in frontend and backend.<br>-<h3 align="left">📫 Where to find me:</h3><div><br>🌐 Portfolio: HemrajMahanandhemu.com<br>💼 LinkedIn: https://www.linkedin.com/in/hemraj-mahanand-ab39b7219/<br>🐙 GitHub: https://github.com/HemrajMahanand<br>📧 Email: mahanandhemraj42@gmail.com</div></p>
+<p align="left">I’m a passionate Full Stack Developer who loves blending design and development to build clean, interactive, and scalable web experiences.<br><br>- 🔭 I’m working as a teacher in Beldih School.<br>- 💼 I've previously worked as a maker for data annotation Lider Software technology at FiveSdigital.<br>- 🤖 I specialize in Arduino UNO<br>- 📙 I love teaching students.<br>- 🧭 I love exploring and working both in frontend and backend.</p>
+
+<h3 align="left">🏡 Where to find me</h3>
+
+###
+<div>
+     - 🌐 Portfolio: HemrajMahanandhemu.com<br>- 💼 LinkedIn: https://www.linkedin.com/in/hemraj-mahanand-ab39b7219/<br>- 🐙 GitHub: https://github.com/HemrajMahanand<br>- 📧 Email:mahanandhemraj42@gmail.com</div>
 
 ###
 
