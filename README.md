@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I’m a passionate Full Stack Developer who loves blending design and development to build clean, interactive, and scalable web experiences.<br><br>- 🧩 I’m working as a teacher in Beldih School.<br>- 🔭 I've previously worked as a maker for data annotation Lider Software technology at FiveSdigital.<br>- 🤖 I specialize in Arduino UNO<br>- 👨🏻‍🎓 I like teaching students.<br>- 👨🏻‍💻 I love exploring and working both in frontend and backend.</p>
+<p align="left">I’m a passionate Full Stack Developer who loves blending design and development to build clean, interactive, and scalable web experiences.<br><br>- 🧩 Currently working as a freelancer.<br>- 🔭 I've previously worked as a maker for data annotation Lider Software technology in "FiveSdigital".<br>- 🤖 I was a teacher of AI & Robotics subject at Beldih Chruch School  <br>- 👨🏻‍🎓 I've a good knowledge of Arduino UNO and ESP32 microcontroller.<br>- 👨🏻‍💻 I love exploring and working both in frontend and backend.</p>
 
 <h3 align="left">🏡 Where to find me</h3>
 
